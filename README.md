@@ -22,7 +22,13 @@ Le système repose sur une base de données relationnelle MySQL structurée auto
 <img width="945" height="981" alt="image" src="https://github.com/user-attachments/assets/d9345e62-2143-4515-a133-6171b8f66835" />
 # Structure de l’application :
 <img width="767" height="938" alt="image" src="https://github.com/user-attachments/assets/aad17e70-2515-463e-942c-0846eaca4b8d" />
+
 # Démonstration vidéo :
+
+https://github.com/user-attachments/assets/f853e74e-d787-42da-b9a0-8918523942da
+
+
+
 
 
 
