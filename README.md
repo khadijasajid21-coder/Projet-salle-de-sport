@@ -25,8 +25,7 @@ Le système repose sur une base de données relationnelle MySQL structurée auto
 
 # Démonstration vidéo :
 # Installation:
-https://github.com/user-attachments/assets/fe570082-32d4-4fb5-b038-2e03739d8144
-
+https://github.com/user-attachments/assets/7d92684a-df15-4e61-b0e4-a266fa37761b
 # Application:
 https://github.com/user-attachments/assets/f853e74e-d787-42da-b9a0-8918523942da
 
